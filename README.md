@@ -1,4 +1,3 @@
-# College-library
 # College Library Management System
 # Features
 - *User Profiles:* Create and manage user profiles for both students and staff members.
